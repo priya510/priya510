@@ -55,10 +55,10 @@
 
 <a href="https://wa.me/919423359851" target="blank"><img align="center" src="https://img.favpng.com/3/18/7/whatsapp-icon-logo-png-favpng-NxdPMC0c3NCiUKmJNPJ10SyXz.jpg" alt="whatsapp" height="30" width="30" /></a>
  
-<a href="https://github.com/priya510/Priya-Singh" target="blank"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/25/25231.svg" height="30" width="30" /></a>  
+<a href="https://github.com/priya510/priya510" target="blank"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/25/25231.svg" height="30" width="30" /></a>  
   
 </p>
-<p align="center"><img src=""></p> <br>
+<p align="center"></p> <br>
 <img align='center'  height="70" alt="Thanks for visiting....." width="100%" /> <br>
 
 
