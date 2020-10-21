@@ -8,11 +8,11 @@
 <h1 align="center">Hey,I am Priya Singh</h1>
 <h3 align="center"> A passionate Data Scientist from India.</h3><br>
 
-- 🌱 I’m currently learning **Data Science🤩**
+- 🌱 I’m currently learning **Data Science🤩 Python and full stack java **
 
-- 👯 I’m looking to collaborate on [Youtube]
+- 👯 I’m looking to collaborate on Youtube
 
-- 🤝 I’m looking for help with [Virtual Assistant]
+- 🤝 I’m looking for help with Virtual Assistant
 
 - 💬 Ask me about **Technical Staff and about programming languages😎**
 
