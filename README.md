@@ -25,7 +25,6 @@
 <br>
 
 [![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello,Programmer!-Welcome<3-brightgreen.svg?style=flat&logo=github)](https://github.com/priya510) [![Profile](https://Visitor-badge.glitch.me/badge?page_id=priya510.profileviews-badge)](https://github.com/priya510) [![Open Source Love](https://img.shields.io/github/followers/priya510?style=social)](https://github.com/priya510?tab=followers)[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/priya510)[![Years Badge](https://badges.pufler.dev/years/priya510)](https://badges.pufler.dev/years/priya510)[![Repos Badge](https://badges.pufler.dev/repos/priya510)](https://badges.pufler.dev/repos/priya510)
-
 <br><br>
 
 
@@ -60,5 +59,3 @@
 </p>
 <p align="center"></p> <br>
 <img align='center'  height="70" alt="Thanks for visiting....." width="100%" /> <br>
-
-
