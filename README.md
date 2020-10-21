@@ -24,6 +24,8 @@
 <br>
 <br>
 
+[![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello,Programmer!-Welcome<3-brightgreen.svg?style=flat&logo=github)](https://github.com/priya510) [![Profile](https://Visitor-badge.glitch.me/badge?page_id=priya510.profileviews-badge)](https://github.com/priya510) [![Open Source Love](https://img.shields.io/github/followers/priya510?style=social)](https://github.com/priya510?tab=followers)[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/priya510)[![Years Badge](https://badges.pufler.dev/years/priya510)](https://badges.pufler.dev/years/priya510)[![Repos Badge](https://badges.pufler.dev/repos/priya510)](https://badges.pufler.dev/repos/priya510)
+
 <br><br>
 
 
@@ -48,13 +50,15 @@
 
 <a href="https://www.youtube.com/channel/UCIHj6mNCMnSnmWLHOxzIESw?view_as=subscriber" target="blank"><img align="center" src="https://img.favpng.com/18/7/22/scalable-vector-graphics-social-media-youtube-logo-png-favpng-X24i5zHCJkRER9Uik7KY0htRs.jpg" alt="kushal das" height="32" width="32" /></a>
 
+<a href="https://twitter.com/KushalD63268398" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-logo-vector-png-clipart-1.png" alt="kushal Das" height="30" width="30" /></a>
+
 
 <a href="https://wa.me/919423359851" target="blank"><img align="center" src="https://img.favpng.com/3/18/7/whatsapp-icon-logo-png-favpng-NxdPMC0c3NCiUKmJNPJ10SyXz.jpg" alt="whatsapp" height="30" width="30" /></a>
  
 <a href="https://github.com/priya510/Priya-Singh" target="blank"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/25/25231.svg" height="30" width="30" /></a>  
   
 </p>
-<p align="center"><img src="https://github.com/priya510/priya510/blob/master/Profile%20generator/tenor.gif"></p> <br>
-<img align='center'  height="70" alt="Thanks" width="100%" /> <br>
+<p align="center"><img src=""></p> <br>
+<img align='center'  height="70" alt="Thanks for visiting....." width="100%" /> <br>
 
 
