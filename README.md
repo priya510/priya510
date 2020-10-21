@@ -42,20 +42,15 @@
 <h2 align="center">Hey,Wait! 👋 don't foget to check out my social media handles 😎<img align="center" src="" height="32px"></h2>
 
 
-<br>
-<img align="center" alt="GIF"  width="150px" src="https://github.com/Kushal997-das/Kushal997-das/blob/master/giphy.gif" />
-<br>
-
-
-<p align="center">
-<a href="https://www.linkedin.com/in/priya-singh-55b702184/"><img align="center" src="https://img.favpng.com/15/24/8/linkedin-professional-network-service-clip-art-png-favpng-q49500q2zb8L7VrKSwnzAPEEM.jpg" height="32" width="20">
+<p align="left">
+<a href="https://www.linkedin.com/in/priya-singh-55b702184/"><img align="center" src="https://img.favpng.com/15/24/8/linkedin-professional-network-service-clip-art-png-favpng-q49500q2zb8L7VrKSwnzAPEEM.jpg" height="34" width="34">
 <a href=" http://wwww.facebook.com/ " target="blank"><img align="center" src="https://i.pinimg.com/564x/ac/57/3b/ac573b439cde3dec8ca1c6739ae7f628.jpg" alt="profile.php?id=100045318647068" height="38" width="37" /></a>
 
 <a href="https://instagram.com/ _priyaa_0510_" target="blank"><img align="center" src="https://img.favpng.com/9/25/24/computer-icons-instagram-logo-sticker-png-favpng-LZmXr3KPyVbr8LkxNML458QV3.jpg " alt="priyaa_0510" height="37" width="37" /></a>
 
 <a href="https://www.youtube.com/channel/UCIHj6mNCMnSnmWLHOxzIESw?view_as=subscriber" target="blank"><img align="center" src="https://img.favpng.com/18/7/22/scalable-vector-graphics-social-media-youtube-logo-png-favpng-X24i5zHCJkRER9Uik7KY0htRs.jpg" alt="kushal das" height="32" width="32" /></a>
 
-<a href="https://auth.geeksforgeeks.org/user/daskushal980/todo-done/" target="blank"><img align="center" src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200X200.png" alt="kushal das" height="32" width="33" /></a>
+<a href="https://auth.geeksforgeeks.org/user/daskushal980/todo-done/" target="blank"><img align="center" src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200X200.png" alt="Priya Singh" height="32" width="33" /></a>
 
 <a href="https://wa.me/919423359851" target="blank"><img align="center" src="https://img.favpng.com/3/18/7/whatsapp-icon-logo-png-favpng-NxdPMC0c3NCiUKmJNPJ10SyXz.jpg " alt="whatsapp" height="30" width="30" /></a>
  
