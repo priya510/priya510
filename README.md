@@ -1,4 +1,4 @@
-### Hi there 👋 lemme introduce myself ..I am Priya Singh from India. 
+### Hi there 👋 
 
 <!--
 **priya510/priya510** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
