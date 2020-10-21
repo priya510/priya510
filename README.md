@@ -22,10 +22,10 @@
 
 
 <br>
-
+<br>
 [![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello,Programmer!-Welcome<3-brightgreen.svg?style=flat&logo=github)](https://github.com/priya510) [![Profile](https://Visitor-badge.glitch.me/badge?page_id=priya510.profileviews-badge)](https://github.com/priya510) [![Open Source Love](https://img.shields.io/github/followers/priya510?style=social)](https://github.com/priya510?tab=followers)[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/priya510)[![Years Badge](https://badges.pufler.dev/years/priya510)](https://badges.pufler.dev/years/priya510)[![Repos Badge](https://badges.pufler.dev/repos/priya510)](https://badges.pufler.dev/repos/priya510)
 <br>
-
+<br>
 
 
 <img align="right" alt="GIF"  width="70px" src="https://github.com/priya510/priya510/blob/master/Profile%20generator/giphy%20(1).gif" />
@@ -36,11 +36,20 @@
 <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/><img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/swift/swift-original-wordmark.svg" alt="swift" width="40" height="40"/></p>
 <br>
+<br>
 
 
 
-<h2 align="center">Hey,Wait! 👋 don't foget to check out my social media handles 😎<img align="center" src="" height="32px"></h2>
+```python3
+print('while(!(succeed=try() )) ;')
+```
+<br>
+<img align="center" alt="GIF"  width="150px" src="https://github.com/priya510/priya510/blob/master/giphy.gif" />
+<br>
 
+<h2 align="center">Hey,Wait! 👋 don't foget to check out my social media handles 😎<img align="center" src="https://github.com/priya510/priya510/blob/master/Profile%20generator/Handshake.gif" height="32px"></h2>
+
+<br>
 
 <p align="left">
 <a href="https://www.linkedin.com/in/priya-singh-55b702184/"><img align="center" src="https://img.favpng.com/15/24/8/linkedin-professional-network-service-clip-art-png-favpng-q49500q2zb8L7VrKSwnzAPEEM.jpg" height="34" width="34">
@@ -50,7 +59,6 @@
 
 <a href="https://www.youtube.com/channel/UCIHj6mNCMnSnmWLHOxzIESw?view_as=subscriber" target="blank"><img align="center" src="https://img.favpng.com/18/7/22/scalable-vector-graphics-social-media-youtube-logo-png-favpng-X24i5zHCJkRER9Uik7KY0htRs.jpg" alt="kushal das" height="32" width="32" /></a>
 
-<a href="https://auth.geeksforgeeks.org/user/daskushal980/todo-done/" target="blank"><img align="center" src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200X200.png" alt="Priya Singh" height="32" width="33" /></a>
 
 <a href="https://wa.me/919423359851" target="blank"><img align="center" src="https://img.favpng.com/3/18/7/whatsapp-icon-logo-png-favpng-NxdPMC0c3NCiUKmJNPJ10SyXz.jpg " alt="whatsapp" height="30" width="30" /></a>
  
