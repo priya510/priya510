@@ -23,12 +23,10 @@
 
 <br>
 <br>
-[![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello,Programmer!-Welcome<3-brightgreen.svg?style=flat&logo=github)](https://github.com/priya510) [![Profile](https://Visitor-badge.glitch.me/badge?page_id=priya510.profileviews-badge)](https://github.com/priya510) [![Open Source Love](https://img.shields.io/github/followers/priya510?style=social)](https://github.com/priya510?tab=followers)[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/priya510)[![Years Badge](https://badges.pufler.dev/years/priya510)](https://badges.pufler.dev/years/priya510)[![Repos Badge](https://badges.pufler.dev/repos/priya510)](https://badges.pufler.dev/repos/priya510)
+[![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello,Programmer!-Welcome<3-brightgreen.svg?style=flat&logo=github)](https://github.com/priya510/priya510) [![Profile](https://Visitor-badge.glitch.me/badge?page_id=priya510/priya510.profileviews-badge)](https://github.com/priya510/priya510) [![Open Source Love](https://img.shields.io/github/followers/priya510/priya510?style=social)](https://github.com/priya510/priya510?tab=followers)[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/priya510/priya510)[![Years Badge](https://badges.pufler.dev/years/priya510/priya510)](https://badges.pufler.dev/years/priya510/priya510)[![Repos Badge](https://badges.pufler.dev/repos/priya510/priya510)](https://badges.pufler.dev/repos/priya510/priya510)
 <br>
 <br>
 
-
-<img align="right" alt="GIF"  width="70px" src="https://github.com/priya510/priya510/blob/master/Profile%20generator/giphy%20(1).gif" />
 
 
 <p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="django" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
@@ -40,22 +38,14 @@
 
 
 
-```python3
-print('while(!(succeed=try() )) ;')
-```
-<br>
-<img align="center" alt="GIF"  width="150px" src="https://github.com/priya510/priya510/blob/master/giphy.gif" />
-<br>
-
-<h2 align="center">Hey,Wait! 👋 don't foget to check out my social media handles 😎<img align="center" src="https://github.com/priya510/priya510/blob/master/Profile%20generator/Handshake.gif" height="32px"></h2>
-
+<h2 align="center">Hey,Wait! 👋 don't foget to check out my social media handles 😎<img align="center"</h2>
 <br>
 
 <p align="left">
-<a href="https://www.linkedin.com/in/priya-singh-55b702184/"><img align="center" src="https://img.favpng.com/15/24/8/linkedin-professional-network-service-clip-art-png-favpng-q49500q2zb8L7VrKSwnzAPEEM.jpg" height="34" width="34">
+<a href="https://www.linkedin.com/in/priya-singh-55b702184/"><img align="center" src="https://img.favpng.com/15/24/8/linkedin-professional-network-service-clip-art-png-favpng-q49500q2zb8L7VrKSwnzAPEEM.jpg" height="34" width="34"></a>
+ 
 <a href=" http://wwww.facebook.com/ " target="blank"><img align="center" src="https://i.pinimg.com/564x/ac/57/3b/ac573b439cde3dec8ca1c6739ae7f628.jpg" alt="profile.php?id=100045318647068" height="38" width="37" /></a>
 
-<a href="https://instagram.com/ _priyaa_0510_" target="blank"><img align="center" src="https://img.favpng.com/9/25/24/computer-icons-instagram-logo-sticker-png-favpng-LZmXr3KPyVbr8LkxNML458QV3.jpg " alt="priyaa_0510" height="37" width="37" /></a>
 
 <a href="https://www.youtube.com/channel/UCIHj6mNCMnSnmWLHOxzIESw?view_as=subscriber" target="blank"><img align="center" src="https://img.favpng.com/18/7/22/scalable-vector-graphics-social-media-youtube-logo-png-favpng-X24i5zHCJkRER9Uik7KY0htRs.jpg" alt="kushal das" height="32" width="32" /></a>
 
@@ -66,6 +56,6 @@ print('while(!(succeed=try() )) ;')
   
 </p>
 <p align="center"><img src=" https://github.com/priya510/priya510/blob/master/Profile%20generator/tenor.gif""></p> <br>
-<img align='center'  height="70" alt="Thanks" width="100%" src="https://github.com/priya510/Priya-Singh/blob/master/Profile%20generator/marquee.svg"/> <br>
+<img align='center'  height="70" alt="Thanks" width="100%" /> <br>
 
 
