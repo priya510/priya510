@@ -8,6 +8,7 @@
 <h2 align="center">Hey,I am Priya Singh from India</h1>
 <h3 align="center">Passionate to learn programming </h3> 
 
+
 - 🌱 I’m currently learning **Data Science🤩 Python and full stack java **
 
 - 👯 I’m looking for job and collaborate with Programmers
@@ -38,7 +39,7 @@
 
 
 
-<h2 align="center">Hey,Wait! 👋 don't forget to check out my social media handles 😎<img align="center"</h2>
+<h2 align="center">Hey,Wait! 👋 don't forget to check out my social media handles 😎</h2>
 <br>
 
 
@@ -47,14 +48,14 @@
 <a href=" http://wwww.facebook.com/ " target="blank"><img src="https://i.pinimg.com/564x/ac/57/3b/ac573b439cde3dec8ca1c6739ae7f628.jpg" alt="profile.php?id=100045318647068" height="38" width="37" /></a>&nbsp;&nbsp;
 
 
-<a href="https://www.youtube.com/channel/UCIHj6mNCMnSnmWLHOxzIESw?view_as=subscriber" target="blank"><img align="center" src="https://img.favpng.com/18/7/22/scalable-vector-graphics-social-media-youtube-logo-png-favpng-X24i5zHCJkRER9Uik7KY0htRs.jpg" alt="kushal das" height="32" width="32" /></a>
+<a href="https://www.youtube.com/channel/UCIHj6mNCMnSnmWLHOxzIESw?view_as=subscriber" target="blank"><img src="https://img.favpng.com/18/7/22/scalable-vector-graphics-social-media-youtube-logo-png-favpng-X24i5zHCJkRER9Uik7KY0htRs.jpg" alt="kushal das" height="32" width="32" /></a>
 
-<a href="https://twitter.com/KushalD63268398" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-logo-vector-png-clipart-1.png" alt="kushal Das" height="30" width="30" /></a>
+<a href="https://twitter.com/KushalD63268398" target="blank"><img src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-logo-vector-png-clipart-1.png" alt="kushal Das" height="30" width="30" /></a>
 
 
-<a href="https://wa.me/919423359851" target="blank"><img align="center" src="https://img.favpng.com/3/18/7/whatsapp-icon-logo-png-favpng-NxdPMC0c3NCiUKmJNPJ10SyXz.jpg" alt="whatsapp" height="30" width="30" /></a>
+<a href="https://wa.me/919423359851" target="blank"><img src="https://img.favpng.com/3/18/7/whatsapp-icon-logo-png-favpng-NxdPMC0c3NCiUKmJNPJ10SyXz.jpg" alt="whatsapp" height="30" width="30" /></a>
  
-<a href="https://github.com/priya510/priya510" target="blank"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/25/25231.svg" height="30" width="30" /></a>  
+<a href="https://github.com/priya510/priya510" target="blank"><img src="https://www.flaticon.com/svg/static/icons/svg/25/25231.svg" height="30" width="30" /></a>  
   
 
 <p align="center"></p> <br>
