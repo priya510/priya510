@@ -41,7 +41,7 @@
 <h2 align="center">Hey,Wait! 👋 don't forget to check out my social media handles 😎<img align="center"</h2>
 <br>
 
-<p align="center">
+
 <a href="https://www.linkedin.com/in/priya-singh-55b702184/"><img src="https://img.favpng.com/15/24/8/linkedin-professional-network-service-clip-art-png-favpng-q49500q2zb8L7VrKSwnzAPEEM.jpg" height="34" width="34"></a>&nbsp;&nbsp;
  
 <a href=" http://wwww.facebook.com/ " target="blank"><img src="https://i.pinimg.com/564x/ac/57/3b/ac573b439cde3dec8ca1c6739ae7f628.jpg" alt="profile.php?id=100045318647068" height="38" width="37" /></a>&nbsp;&nbsp;
@@ -56,6 +56,6 @@
  
 <a href="https://github.com/priya510/priya510" target="blank"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/25/25231.svg" height="30" width="30" /></a>  
   
-</p>
+
 <p align="center"></p> <br>
 <img align='center'  height="70" alt="Thanks for visiting....." width="100%" /> <br>
