@@ -6,7 +6,7 @@
 
 
 <h2 align="center">Hey,I am Priya Singh from India</h1>
-<h3>Passionate to learn new technologies </h3> 
+<h3 align="center">Passionate to learn programming </h3> 
 
 - 🌱 I’m currently learning **Data Science🤩 Python and full stack java **
 
