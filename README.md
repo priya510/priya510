@@ -5,16 +5,16 @@
 
 
 
-<h2 align="center">Hey,I am Priya Singh</h1>
-<h3 align="center"> A passionate Data Scientist from India.</h3><br>
+<h2 align="center">Hey,I am Priya Singh from India</h1>
+<h3>Passionate to learn new technologies </h3> 
 
 - 🌱 I’m currently learning **Data Science🤩 Python and full stack java **
 
-- 👯 I’m looking to collaborate on Youtube
+- 👯 I’m looking for job and collaborate with Programmers
 
 - 🤝 I’m looking for help with Virtual Assistant
 
-- 💬 Ask me about **Technical Staff and about programming languages😎**
+- 💬 Ask me about programming languages..
 
 - 📫 How to reach me priyaksingh98@gmail.com
 
