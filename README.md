@@ -1,8 +1,8 @@
 <!--
 **priya510/priya510** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-<img align="center" alt="GIF"  width="900px" height='340px' src="https://github.com/Kushal997-das/priya510/blob/main/docs/welcome.gif" />
+<img align="center" alt="GIF"  width="900px" height='340px' src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/welcome.gif" />
 
-<h2 align="center"> Hey, I am Priya Singh <img src="https://github.com/Kushal997-das/priya510/blob/main/docs/hi.gif" width="37px" height='33px'></h1>
+<h2 align="center"> Hey, I am Priya Singh <img src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/hi.gif" width="37px" height='33px'></h1>
 <h3 align="center">Passionate to learn programming </h3> <br><br>
 
 [![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello,Programmer!-Welcome<3-brightgreen.svg?style=flat&logo=github)](https://github.com/priya510) [![Profile](https://Visitor-badge.glitch.me/badge?page_id=priya510.profileviews-badge)](https://github.com/priya510) [![Open Source Love](https://img.shields.io/github/followers/priya510?style=social)](https://github.com/priya510?tab=followers)[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/priya510)[![Years Badge](https://badges.pufler.dev/years/priya510)](https://badges.pufler.dev/years/priya510)[![Repos Badge](https://badges.pufler.dev/repos/priya510)](https://badges.pufler.dev/repos/priya510)[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/priya-singh-55b702184/)
