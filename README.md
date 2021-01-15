@@ -9,7 +9,7 @@
 <br><br>
 
 
-- 🌱 I’m currently learning **Data Science🤩 Python and full stack java **
+- 🌱 I’m currently learning **Data Science🤩 Python and full stack java**
 
 - 👯 I’m looking for job and collaborate with Programmers
 
