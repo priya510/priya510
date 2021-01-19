@@ -1,6 +1,6 @@
 <!--
 **priya510/priya510** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-<img align="center" alt="GIF"  width="900px" height='450px' src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/welcome.gif" />
+<img align="center" alt="GIF"  width="900px" height='450px' src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313630302f302a4b32574c4d5445784c79696461374f522e676966.gif" />
 
 <h2 align="center"> Hey, I am Priya Singh <img src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/hi.gif" width="37px" height='33px'></h1>
 <h3 align="center">Passionate to learn programming </h3> <br><br>
