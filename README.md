@@ -11,9 +11,9 @@
 
 - 🌱 I’m currently learning **Data Science🤩 Python and full stack java**
 
-- 👯 I’m looking for job and collaborate with Programmers
+- 👯 I’m looking to collaborate on [Project-Guidance](https://github.com/Kushal997-das/Project-Guidance)
 
-- 🤝 I’m looking for help with Virtual Assistant
+- 🤝 I’m looking for help with https://github.com/Kushal997-das/Project-Guidance
 
 - 💬 Ask me about programming languages..
 
