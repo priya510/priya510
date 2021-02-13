@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on [Project-Guidance](https://github.com/Kushal997-das/Project-Guidance)
 
-- Contributing to open source for learning and helping other! Fork this repo and start comtributing :) (https://github.com/Kushal997-das/Project-Guidance.git)
+- Contributing to open source for learning and helping other! Fork this repo and start contributing :) [Project-Guidance](https://github.com/Kushal997-das/Project-Guidance.git)
 
 - 💬 Ask me about programming languages..
 
