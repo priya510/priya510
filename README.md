@@ -31,6 +31,5 @@
 <img height="27" src="https://img.shields.io/badge/GitHub - Stats-orange.svg?&style=for-the-badge&logo=KushalDas&logoColor=blue" /><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priya510&show_icons=true&theme=tokyonight" alt="kushal997-das" /></p>
 <br><img height="27" src="https://img.shields.io/badge/Most used - languages-pink.svg?&style=for-the-badge&logo=KushalDas&logoColor=blue" />
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priya510&layout=compact&hide=html&theme=highcontrast" alt="kushal997-das" /></p>
-
 <br>
 <br>
